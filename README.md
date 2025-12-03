@@ -1,1 +1,1 @@
-# Odin-Recipes
+# Odin-Recipes| This project asked a simple main page with 3 links to unique recipes of my choosing. i demonstrated my ability to create successful links between this main page and readable instructions for creating 3 different food items. i chose, carrot cake, mac & cheese, and sushi, as these are 3 of my favorites. i created pictures, headings, and instructions on how to make these dishes on each respective recipe page and included a "back home" button for easy access of the main page.
